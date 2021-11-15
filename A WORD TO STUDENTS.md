@@ -4,7 +4,7 @@
 
 We all have *opinions*. The question is, which of these many opinions have *good reasons* to believe? We want to live our life as wisely as possible.
 
-The word ”philosophy” means ”love of wisdom”.
+The word ”philosophy” means ”love of wisdom.”
 
 We can’t help making decisions about crucial matters, and we express such decisions in the way we live. In a sense, everyone is already a philosopher and already engaged in philosophy.
 > Whether you will philosophize or won’t philosophize, you must philosophize.
