@@ -60,6 +60,7 @@ The poem also celebrates the “heroic virtues”: strength, courage, physical p
 Homeric religion is not exactly a true polytheism. The many powers that govern the world seem to be under the rule of one. The rule gives a *just* order to the universe. The mortals and gods in Homer’s world covet **honor** and glory above all else. What is just in this social world is that each person receive the honor that is due, given that person’s status and position.
 
 The chief difference between human beings and the gods is that human beings are bound for death and the gods are not. Greeks often refer to the gods simply as “the *immortals*.” As immortals, the gods are interested in the affairs of mortals, but only insofar as they are entertained or their honor is touched. They are spectators of the human comedy—or tragedy.
+> ... and the will of Zeus was moving toward its end.
 
 The gods both deserve and demand honor, punishing humans who refuse to give it. When humans dishonor the gods, they are guilty of **hubris**. In this state, human beings in effect think of themselves as gods. The gulf between Homeric gods and mortals is clear and impassable.
 
