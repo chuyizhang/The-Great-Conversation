@@ -55,7 +55,7 @@ From the point of view of the human side, *The Iliad* can be thought of as the s
 
 The poem also celebrates the “heroic virtues”: strength, courage, physical prowess and wisdom. The heroic virtues together with moderation make up the model of *human excellence*.
 
-### Homeric Gods
+### Homeric Religion
 
 Homeric religion is not exactly a true polytheism. The many powers that govern the world seem to be under the rule of one. The rule gives a *just* order to the universe. The mortals and gods in Homer’s world covet **honor** and glory above all else. What is just in this social world is that each person receive the honor that is due, given that person’s status and position.
 
