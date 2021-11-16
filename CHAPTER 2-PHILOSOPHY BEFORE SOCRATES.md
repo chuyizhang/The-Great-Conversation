@@ -81,9 +81,9 @@ The Boundless is indefinite, so it cannot have a clear nature of its own. It mus
 
 At this early stage of thought, no clear distinction is made between heat as a property of a thing and the thing that is hot. There is just “the hot” and “the cold”, which may be thought of as hot stuff and cold stuff.
 
-|The Hot|The Cold|The Dry|The Wet|
+|The Cold|The Wet|The Dry|The Hot|
 |:---:|:---:|:---:|:---:|
-|Fire|Earth|Air|Water|
+|Earth|Water|Air|Fire|
 
 To the ancient Greeks, the universe seems to be composed of various mixtures of these elemental stuffs.
 
@@ -103,7 +103,7 @@ Anaximander turns not to gods or myths to try to explain the nature of the world
 
 > Existing things ... make reparation to one another for their injustice according to the ordinance of time.
 
-Much as Homer requires a certain moderation or balance in human behavior, Anaximander presupposes a principle of balance in nature. A balance between hot and cold, wet and dry. According to Anaximander, each season does others an injustice, but reparation is made in turn when each gets its due—and more. This keeps the cycle going.
+Much as Homer requires a certain moderation or balance in human behavior, Anaximander presupposes a principle of balance in nature. According to Anaximander, there is a balance between hot and cold, wet and dry in seasonal changes.
 
 Unlike in Hesiod and Homer, Anaximander’s cosmic balance is not imposed on reality by the gods. Instead, he conceives it as immanent in the world process itself.
 
