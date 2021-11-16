@@ -103,7 +103,7 @@ Anaximander turns not to gods or myths to try to explain the nature of the world
 
 > Existing things ... make reparation to one another for their injustice according to the ordinance of time.
 
-Much as Homer requires a certain moderation or balance in human behavior, Anaximander presupposes a principle of balance in nature. Each season does others an injustice, but reparation is made in turn when each gets its due—and more. This keeps the cycle going.
+Much as Homer requires a certain moderation or balance in human behavior, Anaximander presupposes a principle of balance in nature. A balance between hot and cold, wet and dry. According to Anaximander, each season does others an injustice, but reparation is made in turn when each gets its due—and more. This keeps the cycle going.
 
 Unlike in Hesiod and Homer, Anaximander’s cosmic balance is not imposed on reality by the gods. Instead, he conceives it as immanent in the world process itself.
 
