@@ -91,7 +91,7 @@ To the ancient Greeks, the universe seems to be composed of various mixtures of 
 
 Anaximander's explanation on how the basic four elements separate out from the chaos: If the Boundless were swirling in a **vortex motion**, then the four elements in it would become separated out according to their weights.
 
-Experience that conforms to the vortex principle:
+Experience we have as evidence for the vortex motion:
 
 - Anaximander's water swirling experiment
 - Heavenly bodies swirl around the earth.
@@ -108,3 +108,89 @@ Much as Homer requires a certain moderation or balance in human behavior, Anaxim
 Unlike in Hesiod and Homer, Anaximander’s cosmic balance is not imposed on reality by the gods. Instead, he conceives it as immanent in the world process itself.
 
 Anaximander’s explanations are framed impersonally. It is true that the Boundless “steers all things,” but the jealous and vengeful Homeric gods who intervene at will in the world have vanished. To explain particular facts in the world, no will, no purpose, no emotion, no intention is needed. The gods turn out to be superfluous.
+
+## Xenophanes: The Gods as Fictions
+
+Xenophanes seems to have been the first to state clearly the religious implications of the new nature philosophy. Unlike Anaximander, who only criticized the gods implicitly, Xenophanes explicitly criticizes the traditional conception of the gods.
+
+> Homer and Hesiod have attributed to the gods all those things which in men are a matter for reproach and censure: stealing, adultery, and mutual deception.
+
+Xenophanes clearly expresses his disapproval the way Hesiod and Homer picture the gods. He thinks it is shameful to portray the gods as though they are morally no better than human.
+
+Xenophanes's criticism makes sense only on the basis of the assumption that Homer is not simply reporting the truth but is inventing stories.
+
+> Horses would draw the gods in the shape of horses, and oxen in the shape of oxen, each giving the gods bodies similar to their own.
+
+This is the first recorded version of the saying that god does not make man in his own image but that we make the gods in our image.
+
+### The One God
+
+Xenophanes is not a disbeliever in the divine.
+> ... one god, greatest among gods and men, in no way similar to mortals either in body or mind.
+
+According to Xenophanes, there is only **one god**, and this god is radically different from anything in the Homeric tradition.
+
+> He sees all over, thinks all over, hears all over.
+>
+> He remains always in the same place, without moving.
+>
+> He sets all things in motion by the thought of his mind.
+
+|Humans|The One God|
+|:---|:---|
+|See and think and hear|See and think and hear, but in different way|
+|Keep moving|Without moving|
+|Move things by hand|Sets all things in motion by thought|
+|Intelligent|Intelligent|
+
+There is an assumption that seems to have been common among the Greeks: Where there is order, there is *intelligence*. Order, whether in our lives or in the world of nature, needs an explanation, and only intelligence can explain it.
+
+### Nature Philosophy
+
+> She whom men call “Iris,” too, is in reality a cloud, purple, red, and green to the sight.
+
+In *The Iliad*, Iris is a minor goddess, a messenger for the other gods. She seems to have been identified with the rainbow, which many cultures have taken as a sign or message from the gods.
+
+Xenophanes tells us that rainbows are simply natural phenomena that occur in natural circumstances and have natural explanations. A rainbow is just a peculiar sort of cloud.
+
+This idea suggests a theory of how gods are invented. Natural phenomena, especially those that are particularly striking or important to us, are personified and given lives that go beyond what is observable.
+
+It is clear that there is a kind of natural unity between nature philosophy and criticism of Homer’s gods. They go together and mutually reinforce one another.
+
+### Epistemology
+
+> The gods have not revealed all things from the beginning to mortals; but, by seeking, men find out, in time, what is better.
+>
+> No man knows the truth, nor will there be a man who has knowledge about the gods and what I say about everything. For even if he were to hit by chance upon the whole truth, he himself would not be aware of having done so, but each forms his own opinion.
+>
+> Let these things, then, be taken as like the truth.
+
+1. Xenophanes explicitly denies the poets’ claims of inspiration.
+
+    The gods have *not* revealed to us in this way “from the beginning” what is true. A poet’s claim of divine revelation is no guarantee of her poem’s truth.
+
+2. How should we form our beliefs? By “**seeking**.”
+
+    Xenophanes envisages a process of moving toward the truth. If we want the truth, we should face not the past (Homer and Hesiod) but the future. “In time”—not all at once—we will discover “what is better.” We may not succeed in finding the truth, but our opinions will be “better,” or more “like the truth.”
+
+3. There is no certainty of truth for human beings.
+
+    It may be that we know some truth already. Perhaps there is even someone who knows “the whole truth.” But even if he did, he would not be able to distinguish his knowledge of the truth from mere opinion. Here is a theme that later skeptics take up.
+
+4. Not all beliefs are equally good.
+
+    Although we may never be certain we have reached the truth, some beliefs are better or closer to the truth than others. But Xenophanes does not tell us how we are to tell which are better.
+
+5. Xenophanes seems to be the father of **epistemology**.
+
+    Until Xenophanes, Greek thought had basically been directed outward—to the gods, to the world of human beings, to nature. Xenophanes directs thought back on itself. His questioning questions itself:
+    - How much can we know?
+    - How can we know it?
+    - Can we reach the truth?
+    - Can we reach certainty about the truth?
+
+    These are the central questions that define epistemology, the theory of knowledge.
+
+6. God is the only one who can know the truth and know that he knows it.
+
+    Xenophanes carries forward Homer’s emphasis on the gulf between humans and gods. The most important truth about humans is that they are not gods.
