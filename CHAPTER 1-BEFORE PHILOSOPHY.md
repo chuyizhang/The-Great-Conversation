@@ -10,7 +10,7 @@ Philosophy begins when people try to give good reasons for believing or not beli
 
 The poet we know as Hesiod composed the poem *Theogony*. The term ”theogony” means “origin or birth of the gods.” The stories contained in the poem concern the beginnings of all things.
 
-Hesiod claims to have written Theogony under *divine inspiration*, and that the stories he narrates are backed by the authority of the gods and embody the remembrance of events long past. The stories thus represent the truth and are worthy of belief.
+Hesiod claims to have written Theogony under *divine inspiration* (the Muses), and that the stories he narrates are backed by the authority of the gods and embody the remembrance of events long past. The stories thus represent the truth and are worthy of belief.
 
 > ### The Story of *Theogony*
 >
