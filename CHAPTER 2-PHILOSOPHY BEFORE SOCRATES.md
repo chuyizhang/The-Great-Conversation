@@ -194,3 +194,13 @@ It is clear that there is a kind of natural unity between nature philosophy and 
 6. God is the only one who can know the truth and know that he knows it.
 
     Xenophanes carries forward Homer’s emphasis on the gulf between humans and gods. The most important truth about humans is that they are not gods.
+
+## *Sketch*: Pythagoras
+
+Pythagoras combined mathematics and religion in a way strange to us and was active in setting up a pattern for an ideal community. His influence on Plato is substantial.
+
+Pythagoras believed that the soul is a distinct and immortal entity, “entombed” for a while in the body. After death, the soul migrates into other bodies, sometimes the bodies of animals. To avoid both murder and cannibalism, the Pythagoreans were vegetarians.
+
+Pythagoras held that all things are numbers. Mathematics was valued as a means to purify the soul, to disengage it from bodily concerns. In mathematical pursuits the soul lives a life akin to that of the gods.
+
+It is said that Pythagoras was the first to call himself a philosopher, a lover of wisdom.
