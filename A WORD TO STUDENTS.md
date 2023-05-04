@@ -1,52 +1,102 @@
 # A WORD TO STUDENTS
 
-## Study Philosophy
+## Study Philosophy!
 
-We all have *opinions*. The question is, which of these many opinions have *good reasons* to believe? We want to live our life as wisely as possible.
+> You don’t want simply to be at the mercy of accident in your opinions—for your views to be decided by irrelevant matters such as whom you happen to know or where you were brought up.
 
-The word ”philosophy” means ”love of wisdom.”
+Philosophy can widen our views and enrich our opinion. It helps us to go beyond the limits of our own personal history and current position.
 
-We can’t help making decisions about crucial matters, and we express such decisions in the way we live. In a sense, everyone is already a philosopher and already engaged in philosophy.
-> Whether you will philosophize or won’t philosophize, you must philosophize.
+`I'm very fortunate to meet philosophy. I'm ready to enjoy the journey!`
 
-Philosophy is an examination of opinions, and also of our lives shaped by these opinions.
-> The unexamined life is not worth living.
+> You want to believe for good reasons. That’s the right question, isn’t it? Which of these many opinions has the best reasons behind it? You want to live your life as wisely as possible.
+
+We cannot think of philosophy simply as "a museum of ideas," and we cannot simply take philosophical ideas as artworks. For artworks, we need to appreciate and comment; however, for philosophical ideas, we need to judge right from wrong, prove, and give our own answers.
+
+`I'd like to change my thinking pattern from "appreciating" to "judging and proving and answering." I realized that judging and proving are what I've already tried, but I'm not courageous enough to construct answers to philosophical questions by myself, which I may try later.`
+
+> The meaning of the word ”philosophy” is ”love of wisdom.”
+
+The word "love" implies that philosophy begins with some irrational impulses in favor of wisdom.
+
+- Why love wisdom?
+- What is wisdom?
+- How can we tell if someone has wisdom?
+
+`I love wisdom, and I'm proud of it. I will keep chasing.`
+
+> Unfortunately, these philosophers don’t all agree either. So you might ask, If these really smart philosophers can’t agree on what wisdom says, why should I pay them any attention? The answer is—because it’s the best shot you’ve got.
+
+Philosophy hasn't been "settled down." All we have are questions to be answered and answers given to those questions by different philosophers, which eventually shaped a conversation.
+
+- Is there any philosophical question that has actually been solved?
+- Is there any philosophical question that we all think we solved?
+
+`This makes me a little anxiety but less afraid of reading books.`
+
+> We can’t help making decisions about these crucial matters. We make them either well or badly, conscious of what we are doing or just stumbling along. We express such decisions in the way we live, whether or not we have ever given them a moment’s thought.
+>> Whether you will philosophize or won’t philosophize, you must philosophize.
+
+We don't "learn" philosophy. We "do" philosophy. Equality can be seen in the idea that we all live a philosophical life whether we realize it or not. If such an idea is accepted, then we must also accept that everyone certainly has some experience, or maybe even wisdom, gained from their philosophical life. The proof is that "to think or not to think" is a philosophical decision that everyone has already made. (Intellectual Equality?)
+
+- Are people who think philosophically "better" than those who do not?
+- People who don't think philosophically are also alive and make their own decisions. What does it mean?
+
+`I decide to think philosophically and hope this idea will not change.`
+
+> In a sense, you are already a philosopher, already engaged in the business philosophers have committed themselves to. So you shouldn’t have any problem in making a connection with what they write.
+
+There is no gap between philosophers and "non-philosophers." Philosophical writings are understandable. (Intellectual Equality?)
+
+`Be a philosopher, right now!`
+
+> Philosophy is an examination of opinions, and also of our lives shaped by these opinions.
+>> The unexamined life is not worth living.
+
+Philosophy is ethical.
+
+- Why?
+
+> Thinking is a kind of craft. We can do it well or poorly, and we improve with practice.
+>
+> You can think of reading this book as a kind of apprenticeship in thinking.
+
+Philosophical thinking is not an instinct but a skill that needs to be practiced and can be improved. Reading is an effective way to practice the skill of thinking.
+
+- Are some people more talented in thinking?
+- What are the other ways to improve the skill of thinking? Debating? Writing?
+
+`I think I have the talent for thinking to some extent because people who are not talented in thinking may not even read this book. However, I'm not so sure right now because I see many people who are younger than me but can think better than me, which makes me anxious and sad. I believe that thinking is the right thing to do anyway and that I will be able to think better and better if I keep thinking and learning.`
 
 ## This Book
 
-Philosophy has developed historically, but it’s not just a recital of this following that. Philosophy is *interactive* and *conversational*.
+> Philosophy has developed historically, but it’s not just a recital of this following that. Philosophy is *interactive* and *conversational*.
+>
+> To appreciate the line one thinker is pushing, it is important to see what he is arguing against, where he thinks that others have made mistakes, and how other thinkers have approached the same problems. No philosopher simply makes pronouncements in the dark.
 
-To appreciate the line one thinker is pushing, it is important to see what he is arguing against, where he thinks that others have made mistakes, and how other thinkers have approached the same problems. No philosopher simply makes pronouncements in the dark.
+A philosopher arguing against another philosopher's idea is in fact acknowledging the value of that idea.
 
 ## The Issues
 
-There are certain central problems that especially concern philosophers:
-
-1. **Metaphysics**, the theory of reality.
-    - What is there? What kinds of things are there fundamentally?
-    - Is the world through and through made of material stuff, or are there souls as well as bodies?
-    - Is there a God? If so, of what sort?
-    - Are there universal features to reality, or is everything just the particular thing that it is?
-    - Does everything happen necessarily or are fresh starts possible?
-2. **Epistemology**, the theory of knowledge.
-    - How do we know what there is? Whether we can know anything at all? What is it to know something anyway?
-    - How does knowing something differs from just believing it?
-    - How is knowing something related to its being true? What is truth?
-    - How far can our knowledge reach? Are some things simply unknowable?
-3. **Ethics**, the theory of right and wrong, good and bad.
-    - How to live our lives best?
-    - Does the fact that something gives us pleasure make it the right thing to do?
-    - Do we need to think about how our actions affect others? If so, in what way?
-    - Are there really goods and bads, or does thinking so make it so?
-    - Do we have duties? If so, where do they come from?
-    - What is virtue and vice?
-    - What is justice? Is justice important?
-4. **Human nature**, know thyself.
-    - What are we? Are we simply bits of matter caught up in the universal mechanism of the world, or do we have minds that escape this deterministic machine?
-    - What is it to have a mind? Is mind separate from body? How is it related to the brain?
-    - Do we have a free will?
-    - How important to my self-identity is my relationship to others?
-    - To what degree can I be responsible for the creation of myself?
+> Four main issues of philosophy:
+>
+> 1. **Metaphysics**, the theory of reality.
+>    - Fundamental being?
+>    - Existence of God?
+>    - Causality?
+> 2. **Epistemology**, the theory of knowledge.
+>    - How do we know?
+>    - What is truth?
+>    - Limitation of knowledge?
+> 3. **Ethics**, the theory of right and wrong, good and bad.
+>    - Best way of living?
+>    - Good and evil?
+>    - Duties?
+>    - Justice?
+> 4. **Human nature**, know thyself.
+>    - What are we?
+>    - Human mind?
+>    - Free will?
+>    - Self-identity?
 
 ### Relativism
 
